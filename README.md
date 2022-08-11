@@ -27,4 +27,4 @@ December_df.set_index(December_df['date'], inplace=True)
 December_df.describe()
 ```
 ![June Prcp](https://github.com/dilnigar1007/surfs_up/blob/main/June%20Prcp.png)
-![December Prcp (https://github.com/dilnigar1007/surfs_up/blob/main/December%20Prcp.png)
+![December Prcp](https://github.com/dilnigar1007/surfs_up/blob/main/December%20Prcp.png)
